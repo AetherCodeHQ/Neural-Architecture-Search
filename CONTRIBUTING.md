@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Neural-Architecture-Search.git
+git clone https://github.com/AetherCodeHQ/Neural-Architecture-Search.git
 cd Neural-Architecture-Search
 ```
 
